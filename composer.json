@@ -1,5 +1,5 @@
 {
-    "name": "orlyapps/nova-belongsto-depend",
+    "name": "carloscgo/nova-belongsto-depend",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Orlyapps\\NovaBelongsToDepend\\": "src/"
+            "CarlosCGO\\NovaBelongsToDepend\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Orlyapps\\NovaBelongsToDepend\\FieldServiceProvider"
+                "CarlosCGO\\NovaBelongsToDepend\\FieldServiceProvider"
             ]
         }
     },
