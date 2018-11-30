@@ -10,7 +10,7 @@
 You can install the package in to a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer require orlyapps/nova-belongsto-depend
+composer require carloscgo/nova-belongsto-depend
 ```
 
 Use this field in your Nova Resource
